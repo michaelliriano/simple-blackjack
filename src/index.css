@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.428;
+  color: #333;
+  background-color: #1c652e;
+}
+
+.App {
+  min-height: 90vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-direction: column;
+}
+button {
+  font-size: 18px;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 1rem;
+  background-color: #fff;
+  border: 1px solid #333;
+  cursor: pointer;
+  border-radius: 8px;
+  color: #000;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+}
+
+label {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem 1rem;
+  font-size: 1.1rem;
+  justify-content: space-between;
+  color: #fff;
+  min-height: 140px;
+}
+
+select {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #fff;
+  border-radius: 7px;
+}

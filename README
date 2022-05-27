@@ -1,0 +1,23 @@
+-- Simple Blackjact --
+
+Prerequisites: NodeJS, NPM or Yarn
+
+Step 1: Install packages
+
+- Run `npm install` or `yarn install`
+
+Step 2: Run project in Development mode
+
+- Run `npm start` or `yarn start`
+
+Linter: Use Linter
+
+- Run `npm lint` or `yarn start`
+
+Build: Build Project for Production
+
+- Run `npm lint` or `yarn start`
+
+Test: Run all Tests and Collect Coverage
+
+- Run `npm test` or `yarn test`
