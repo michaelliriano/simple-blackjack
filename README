@@ -12,11 +12,11 @@ Step 2: Run project in Development mode
 
 Linter: Use Linter
 
-- Run `npm lint` or `yarn start`
+- Run `npm lint` or `yarn lint`
 
 Build: Build Project for Production
 
-- Run `npm lint` or `yarn start`
+- Run `npm build` or `yarn build`
 
 Test: Run all Tests and Collect Coverage
 
